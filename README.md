@@ -38,6 +38,8 @@ Student in DevOps / Cybersecurity, automation and system security, with a growin
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/christella-desousa/)
 
+[Portfolio](https://christellaa.github.io/)
+
 # Bonjour 👋
 Étudiante en DevOps / Cybersécurité, automatisation et sécurité des systèmes, avec un intérêt croissant pour l’IA.
 
@@ -76,3 +78,5 @@ Student in DevOps / Cybersecurity, automation and system security, with a growin
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/christella-desousa/)
+
+[Portfolio](https://christellaa.github.io/)

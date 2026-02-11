@@ -1,4 +1,4 @@
-**French version below**
+*French version below*
 # Hello 👋
 Student in DevOps / Cybersecurity, automation and system security, with a growing interest for AI.
 
